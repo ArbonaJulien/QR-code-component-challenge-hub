@@ -33,7 +33,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://arbonajulien.github.io/QR-code-component-challenge-hub/)
+- Solution URL: [link](https://arbonajulien.github.io/QR-code-component-challenge-hub/)
 
 ## My process
 
